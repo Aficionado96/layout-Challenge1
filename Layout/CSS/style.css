@@ -1,0 +1,26 @@
+body * {
+	text-align: center;
+	background-color: rgb(200,200,200);
+	margin: 10px;
+}
+
+header, footer{
+	height:130px;
+	
+	
+}
+
+aside, section {
+	height:310px;
+	display: inline-block;
+
+}
+
+section{
+	width: 65%;
+}
+aside{
+	width:30%;
+
+}
+
